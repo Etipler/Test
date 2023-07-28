@@ -1,0 +1,70 @@
+
+.first-chain{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.second-chain{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.input-text{
+    width: 300px;
+    height: 30px;
+    border-radius: 3px;
+    font-size: 30px;
+}
+.input-text-second{
+    width: 300px;
+    height: 30px;
+    border-radius: 3px;
+    font-size: 30px;
+}
+.first-question{
+    font-size: 23px;
+}
+.button-first{
+    position: relative;
+    top: 10px;
+    width: 300px;
+    height: 30px;
+    border-radius: 3px;
+    border-radius: 10px;
+    background: gray;
+    color: white;
+}
+.button-first:hover{
+    background: white;
+    color: black;
+}
+.button-second{
+    position: relative;
+    top: 10px;
+    width: 300px;
+    height: 30px;
+    border-radius: 3px;
+    border-radius: 10px;
+    background: gray;
+    color: white;
+}
+.button-second:hover{
+    background: white;
+    color: black;
+}
+.end{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+.end-text{
+    text-align: center;
+}
+.one, .two{
+    color: white;
+}
